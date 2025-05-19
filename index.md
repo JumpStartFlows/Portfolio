@@ -18,7 +18,7 @@ Below you'll find examples of projects demonstrating my ability to build, docume
 
 Automated client onboarding using n8n, Excalidraw diagrams, and detailed documentation. This workflow improves efficiency, accuracy, and internal communication.
 
-### [🔵 AI-Powered Lead Generation System](https://github.com/yourusername/ai-lead-generation)
+### [🔵 AI-Powered Lead Generation System](https://github.com/JumpStartFlows/Google-Maps-Lead-Generation)
 
 A solution leveraging OpenAI and n8n to automate lead sourcing, enrichment, and categorization—saving time and increasing lead quality.
 
