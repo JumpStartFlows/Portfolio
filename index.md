@@ -14,11 +14,17 @@ I'm **Allen Turner**, specializing in AI-powered workflow automation, solutions 
 
 Below you'll find examples of projects demonstrating my ability to build, document, and deliver scalable automation solutions.
 
+### [🔵 Marketing Content Agent](https://github.com/JumpStartFlows/Marketing-Content-Agent)
+
+The **Marketing Content Agent** is an advanced automation workflow designed to simplify the creation and management of digital marketing assets. Utilizing AI and automation tools, this solution automatically generates engaging content, visual assets, and social media posts directly from user requests submitted via voice or text messages.
+
+
+
 ### [🟢 Client Onboarding Automation Workflow](https://github.com/yourusername/client-onboarding-automation)
 
 Automated client onboarding using n8n, Excalidraw diagrams, and detailed documentation. This workflow improves efficiency, accuracy, and internal communication.
 
-### [🔵 AI-Powered Lead Generation System](https://github.com/JumpStartFlows/Google-Maps-Lead-Generation)
+### [🔵 AI-Powered Lead Generation System](https://github.com/yourusername/ai-lead-generation)
 
 A solution leveraging OpenAI and n8n to automate lead sourcing, enrichment, and categorization—saving time and increasing lead quality.
 
@@ -32,7 +38,7 @@ Streamlined invoice processing with a user-friendly interface (Figma) and backen
 - **Workflow Automation**: n8n, Zapier
 - **Design & Diagramming**: Figma, Excalidraw, Gamma, Napkin.ai
 - **AI Integration**: OpenAI (GPT), Hugging Face (llm repositories), Open Router, Pinecone (Vector DB), Google Cloud
-- **Documentation & Presentation**: Gamma.ai, Google Docs, Markdown
+- **Documentation & Presentation**: Gamma.ai, Google Docs, Excalidraw, Markdown
 
 ---
 
