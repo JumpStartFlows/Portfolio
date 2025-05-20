@@ -14,7 +14,7 @@ I'm **Allen Turner**, specializing in AI-powered workflow automation, solutions 
 
 Below you'll find examples of projects demonstrating my ability to build, document, and deliver scalable automation solutions.
 
-### [🔵 Marketing Content Agent](https://github.com/JumpStartFlows/Marketing-Content-Agent)
+### [🔴 Marketing Content Agent](https://github.com/JumpStartFlows/Marketing-Content-Agent)
 
 The **Marketing Content Agent** is an advanced automation workflow designed to simplify the creation and management of digital marketing assets. Utilizing AI and automation tools, this solution automatically generates engaging content, visual assets, and social media posts directly from user requests submitted via voice or text messages.
 
