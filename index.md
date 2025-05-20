@@ -20,11 +20,11 @@ The **Marketing Content Agent** is an advanced automation workflow designed to s
 
 
 
-### [🟢 Client Onboarding Automation Workflow](https://github.com/yourusername/client-onboarding-automation)
+### [🟢 Client Onboarding Automation Workflow](https://github.com/JumpStartFlows/Client-Onboarding-Automation)
 
 Automated client onboarding using n8n, Excalidraw diagrams, and detailed documentation. This workflow improves efficiency, accuracy, and internal communication.
 
-### [🔵 AI-Powered Lead Generation System](https://github.com/yourusername/ai-lead-generation)
+### [🔵 AI-Powered Lead Generation System](https://github.com/JumpStartFlows/Google-Maps-Lead-Generation)
 
 A solution leveraging OpenAI and n8n to automate lead sourcing, enrichment, and categorization—saving time and increasing lead quality.
 
